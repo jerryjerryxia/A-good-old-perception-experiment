@@ -1,5 +1,5 @@
 # A-good-old-perception-experiment
-Truly nuts
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
